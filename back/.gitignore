@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django
+db.sqlite3
+*.pyc
+
+# Env
+venv/
+.env
+
+
+# VS Code
+.vscode/
+
+
+# Ignore manage.py if needed
+manage.py
+
+DatabaseUML.png
+
+vercel.json
+
+build.sh
